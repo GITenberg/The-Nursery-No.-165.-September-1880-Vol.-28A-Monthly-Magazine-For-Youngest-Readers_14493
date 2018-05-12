@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14493#The-Nursery-No.-165.-September-1880-Vol.-28A-Monthly-Magazine-For-Youngest-Readers
 gutenberg_bookshelf: The Nursery
 gutenberg_issued: '2004-12-28'
 gutenberg_type: Text
